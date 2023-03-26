@@ -1,0 +1,1 @@
+The name "git" was given by Linus Torvalds when he wrote the very first version
